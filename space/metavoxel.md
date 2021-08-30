@@ -55,7 +55,7 @@ In MetaVoxel world, there are mountains, rivers, caves, forests, glaciers, and d
 
 ### Use your Meebit avatar
 
-![](../.gitbook/assets/meebits-group.jpg)
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/Space.003.jpg)
 
 In MetaVoxel, Meebit holders can use their own Meebit as a MetaVoxel avatar.
 
@@ -76,4 +76,3 @@ SnowCrash Space is fully open source and is licensed under the [Apache 2.0](http
 ## Platforms supported by SnowCrash Space
 
 SnowCrash Space supports Windows, macOS, iOS and Android. We will release the Windows and macOS versions first.
-
