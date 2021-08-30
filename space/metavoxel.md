@@ -55,6 +55,8 @@ MetaVoxel 拥有 102,400 × 102,400 × 102,400 个区块，空间几乎上不会
 
 ### 使用你的 Meebit 化身
 
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/Space.003.jpg)
+
 在 MetaVoxel，Meebit 持有者可以将自己的 Meebit 作为 MetaVoxel 化身。
 
 Meebits 由 Larva Labs 制作，有 20,000 个独特的 3D 体素人物。正如 Meebits 官网所见，Meebit 的持有者可以访问包含完整 3D 模型的附加资产包。并使用附加资产包使你的 Meebit 动起来，或用作你在 Metaverse 中的化身。
