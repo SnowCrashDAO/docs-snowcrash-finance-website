@@ -72,4 +72,3 @@ Meebits 由 Larva Labs 制作，有 20,000 个独特的 3D 体素人物。正如
 ### 完全开源！任何人都可以深度参与社区建设
 
 SnowCrash Space 是完全开源的，代码使用 [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) 许可证，艺术作品使用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可证。创建者和维护者是软件开发人员、设计师、游戏测试人员、图形艺术家、音乐家和热爱开源的大学生的多元化组合。我们鼓励并感谢每个人的贡献，并尽量对新来者表示热情和欢迎。
-

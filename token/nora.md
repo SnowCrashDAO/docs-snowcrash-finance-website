@@ -28,4 +28,3 @@
 2. 长期持有。
 
 [在 PancakeSwap 上购买 Nora](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0)
-

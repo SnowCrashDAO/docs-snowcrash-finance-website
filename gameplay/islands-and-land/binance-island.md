@@ -31,4 +31,3 @@ MetaVoxel 游戏上线前我们会将币安岛上近一半的小岛赠送给 BSC
 * MetaVoxel 风车岛；
 * Meebits 巨石阵；
 * 更多信息，请在 SnowCrash Space 中探索。
-
