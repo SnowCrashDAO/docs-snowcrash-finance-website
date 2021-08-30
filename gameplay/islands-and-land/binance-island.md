@@ -31,4 +31,3 @@ Before the launch of the MetaVoxel game, we will give away nearly half of the Bi
 * Metavoxel Windmill Island;
 * Meebits Stonehenge;
 * For more information, please explore SnowCrash Space.
-

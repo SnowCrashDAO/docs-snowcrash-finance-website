@@ -7,4 +7,3 @@ SnowCrash DAO is a native company in SnowCrash Space and is responsible for the 
 {% endhint %}
 
 Detailed tax distribution and tax rates will be released after the official version of the game is launched.
-

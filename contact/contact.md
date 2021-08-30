@@ -11,4 +11,3 @@ Have questions or need to report an issue with a SnowCrash DAO product or servic
 ## E-mail
 
 Nora@SnowCrash.finance
-

@@ -19,4 +19,3 @@
 * Record moments in the city’s history with photos or videos;
 * Put up a charity poster;
 * And more…
-

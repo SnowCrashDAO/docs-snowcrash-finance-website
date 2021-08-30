@@ -36,4 +36,3 @@ The financial company in the game helps SnowCrash Dao and players to make invest
 **Space Swap**
 
 DEX in the SnowCrash DAO. The virtual companies in the game can issue company tokens and be listed on Space Swap.
-

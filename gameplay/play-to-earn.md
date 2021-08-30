@@ -18,4 +18,3 @@ In MetaVoxel world, entertainment is business, and business is entertainment.
 * For more information, please explore SnowCrash Space.
 
 We hope and believe that you will be the strong man both in MetaVoxel and in the real world. You must believe it too.
-
