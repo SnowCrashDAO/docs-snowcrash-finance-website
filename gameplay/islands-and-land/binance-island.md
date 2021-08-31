@@ -35,6 +35,10 @@ Before the launch of the MetaVoxel game, we will give away nearly half of the Bi
 
 ### Metavoxel Windmill Island
 
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.018.jpeg)
+
 When players log in for the first time on Binance Island will land on the beach under the Binance Mountain, and next to it there will be the beautiful scenic MetaVoxel Windmill Island. MetaVoxel Windmill Island is a tiny island and also the safest island on Binance Island. Every adventurer who lands on the island will get a little surprise.
+
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-Tool.001.jpeg)
 
 After the launch of the official version of the MetaVoxel game, the first 500 players (tentative) who log in to MetaVoxel Windmill Island can pick up a Nora universal tool. Nora universal tool is the most powerful tool in the MetaVoxel world, which can chisel almost any rock layer, and is the most coveted tool for miners. Of course, the Nora universal tool also has some lethality and can be used to attack enemies (beasts).
