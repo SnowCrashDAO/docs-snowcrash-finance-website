@@ -27,6 +27,7 @@ MetaVoxel 游戏上线前我们会将币安岛上近一半的小岛赠送给 BSC
 * 币安岩洞；
 * 迷失森林；
 * 遗迹；
+* 密林湖；
 * Cryptopunks 纪念碑林；
 * MetaVoxel 风车岛；
 * Meebits 巨石阵；
