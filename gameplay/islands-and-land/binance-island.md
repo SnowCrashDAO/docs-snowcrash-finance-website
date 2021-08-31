@@ -1,6 +1,6 @@
 # 币安岛
 
-![](https://img.snowcrash.finance/site/docs-snowcrash-finance/BinanceIsland-3.jpeg)
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-BinanceIsland.003.jpeg)
 
 > 币安岛可能比你想象中的还要大，在岛上行走一不小心就会迷路，尤其是在原始森林里走夜路。
 
