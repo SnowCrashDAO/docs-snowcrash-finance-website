@@ -35,6 +35,10 @@ MetaVoxel 游戏上线前我们会将币安岛上近一半的小岛赠送给 BSC
 
 ### MetaVoxel 风车岛
 
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.018.jpeg)
+
 玩家首次登录币安岛会降落在币安山下的沙滩上。旁边有风景优美的 MetaVoxel 风车岛。MetaVoxel 风车岛是一个迷你小岛，也是币安岛上最安全的小岛，每位冒险家登录小岛都会收获一份小惊喜。
+
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-Tool.001.jpeg)
 
 MetaVoxel 游戏正式版上线后前 500（暂定）名玩家登录风车岛可以捡到一个 Nora 万能工具。Nora 万能工具是 MetaVoxel 世界中最强的工具，几乎上可以凿动任何岩层，是矿工最梦寐以求的工具。当然，Nora 万能工具也有一定杀伤力，可以用来攻击敌人（野兽）。
