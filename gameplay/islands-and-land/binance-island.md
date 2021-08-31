@@ -27,6 +27,7 @@ Before the launch of the MetaVoxel game, we will give away nearly half of the Bi
 * Binance Cave;
 * Lost Forest;
 * Relics;
+* Dense Forest Lake;
 * Cryptopunks Monument Forest;
 * Metavoxel Windmill Island;
 * Meebits Stonehenge;
