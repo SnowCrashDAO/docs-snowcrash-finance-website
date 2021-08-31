@@ -1,6 +1,6 @@
 # Islands and Land
 
-![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.016.jpeg)
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-BinanceIsland.003.jpeg)
 
 {% hint style="success" %}
 In MetaVoxle world, each island and land have an NFT \(Non-Fungible Token\) that players can trade freely. If you own land, you own all the resources on the land.
