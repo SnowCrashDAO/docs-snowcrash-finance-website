@@ -13,8 +13,9 @@ Admins will NEVER send you a direct message. If anybody approaches you directly 
 
 ## Telegram
 
-* English [t.me/SnowCrashDAO](https://t.me/SnowCrashDAO)
-* Chinese [t.me/NoraChinese](https://t.me/NoraChinese)
+* 🌐 English [t.me/SnowCrashDAO](https://t.me/SnowCrashDAO)
+* 🇨🇳 Chinese [t.me/NoraChinese](https://t.me/NoraChinese)
+* 🇵🇭 Filipino [t.me/NoraFilipino](https://t.me/NoraFilipino)
 
 ## GitHub
 
