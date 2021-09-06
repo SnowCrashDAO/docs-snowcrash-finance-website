@@ -17,6 +17,9 @@ Admins will NEVER send you a direct message. If anybody approaches you directly 
 * 🇨🇳 Chinese [t.me/NoraChinese](https://t.me/NoraChinese)
 * 🇵🇭 Filipino [t.me/NoraFilipino](https://t.me/NoraFilipino)
 
+## YouTube
+[youtube.com/...](https://www.youtube.com/channel/UC5Li60DsXOZqPypyeL2QTQA)
+
 ## GitHub
 
 [github.com/SnowCrashDAO](https://github.com/SnowCrashDAO)
