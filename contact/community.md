@@ -17,6 +17,10 @@
 * 🇨🇳 中文 [t.me/NoraChinese](https://t.me/NoraChinese)
 * 🇵🇭 菲律宾 [t.me/NoraFilipino](https://t.me/NoraFilipino)
 
+## YouTube
+
+[youtube.com/...](https://www.youtube.com/channel/UC5Li60DsXOZqPypyeL2QTQA)
+
 ## GitHub
 
 [github.com/SnowCrashDAO](https://github.com/SnowCrashDAO)
