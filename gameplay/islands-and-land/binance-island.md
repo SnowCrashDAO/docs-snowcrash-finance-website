@@ -26,14 +26,14 @@ Before the launch of the MetaVoxel game, we will give away nearly half of the Bi
 * Binance Burning Table;
 * Binance Cave;
 * Lost Forest;
-* Relic;
+* Binance Relic;
 * Dense Forest Lake;
 * Cryptopunks Monument Forest;
 * Metavoxel Windmill Island;
 * Meebits Stonehenge;
 * For more information, please explore SnowCrash Space.
 
-### Relic
+### Binance Relic
 
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/BinanceIsland-3.jpeg)
 
