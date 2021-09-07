@@ -1,6 +1,6 @@
 # Binance Island
 
-![](https://img.snowcrash.finance/site/docs-snowcrash-finance/BinanceIsland-3.jpeg)
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-BinanceIsland.003)
 
 > Binance Island is probably bigger than you think. If you walk on the island carelessly you will get lost, especially if you're walking through the primeval forest at night.
 
@@ -26,12 +26,18 @@ Before the launch of the MetaVoxel game, we will give away nearly half of the Bi
 * Binance Burning Table;
 * Binance Cave;
 * Lost Forest;
-* Relics;
+* Relic;
 * Dense Forest Lake;
 * Cryptopunks Monument Forest;
 * Metavoxel Windmill Island;
 * Meebits Stonehenge;
 * For more information, please explore SnowCrash Space.
+
+### Relic
+
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/BinanceIsland-3.jpeg)
+
+There is a relic in the endless Lost Forest of Binance Island. Although the wall of the relic has long been dilapidated, the huge Binance totem in the center of the relic is intact. There are a lot of $BNB scattered around the site, but it is difficult for explorers who come to the site to take these $BNB away easily. It is rumored that there is a mysterious force guarding this wealth all the time. Beneath the relic, there is a huge underground ancient city, and so far, no one has found out where the entrance to the underground ancient city is.
 
 ### Metavoxel Windmill Island
 
