@@ -1,6 +1,6 @@
 # Binance Island
 
-![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-BinanceIsland.003)
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-BinanceIsland.003.jpeg)
 
 > Binance Island is probably bigger than you think. If you walk on the island carelessly you will get lost, especially if you're walking through the primeval forest at night.
 
