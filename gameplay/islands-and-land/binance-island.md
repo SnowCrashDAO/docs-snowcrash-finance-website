@@ -26,14 +26,14 @@ MetaVoxel 游戏上线前我们会将币安岛上近一半的小岛赠送给 BSC
 * 币安燃烧台；
 * 币安岩洞；
 * 迷失森林；
-* 遗迹；
+* 币安遗迹；
 * 密林湖；
 * Cryptopunks 纪念碑林；
 * MetaVoxel 风车岛；
 * Meebits 巨石阵；
 * 更多信息，请在 SnowCrash Space 中探索。
 
-### 遗迹
+### 币安遗迹
 
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/BinanceIsland-3.jpeg)
 
