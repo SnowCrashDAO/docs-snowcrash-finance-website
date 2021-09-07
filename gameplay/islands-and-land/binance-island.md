@@ -33,6 +33,12 @@ MetaVoxel 游戏上线前我们会将币安岛上近一半的小岛赠送给 BSC
 * Meebits 巨石阵；
 * 更多信息，请在 SnowCrash Space 中探索。
 
+### 遗迹
+
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/BinanceIsland-3.jpeg)
+
+在一望无际的币安岛迷失森林中，有一座遗迹，虽然遗迹墙体早已破败不堪，但遗迹中央巨大的币安图腾却保存的完整如初。遗迹四周散落着大量的 $BNB，来到遗迹的探险家却很难轻松的将这些 $BNB 带走。据传有一种神秘的力量一直在守护着这些财富。在遗迹下方，还有一座巨大的地下古城，至今没有人找到地下古城的入口在哪里。
+
 ### MetaVoxel 风车岛
 
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.018.jpeg)
