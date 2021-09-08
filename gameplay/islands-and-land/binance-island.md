@@ -37,6 +37,8 @@ Before the launch of the MetaVoxel game, we will give away nearly half of the Bi
 
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.020.jpeg)
 
+Lost Forest is the easiest place to get lost on Binance Island. But even so, there are still many explorers willing to venture through, because there is a huge relic in the depths of the forest, surrounded by a great deal of wealth.
+
 ### Binance Relic
 
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/BinanceIsland-3.jpeg)
