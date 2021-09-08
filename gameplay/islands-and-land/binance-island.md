@@ -33,6 +33,10 @@ Before the launch of the MetaVoxel game, we will give away nearly half of the Bi
 * Meebits Stonehenge;
 * For more information, please explore SnowCrash Space.
 
+### Lost Forest
+
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.020.jpeg)
+
 ### Binance Relic
 
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/BinanceIsland-3.jpeg)
