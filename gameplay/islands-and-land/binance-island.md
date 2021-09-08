@@ -33,6 +33,12 @@ MetaVoxel 游戏上线前我们会将币安岛上近一半的小岛赠送给 BSC
 * Meebits 巨石阵；
 * 更多信息，请在 SnowCrash Space 中探索。
 
+### 迷失森林
+
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.020.jpeg)
+
+迷失森林是币安岛上最容易迷失方向的地方。但即便如此，依旧有很多探险家甘愿冒险穿越，因为森林深处有一座巨大的遗迹，遗迹四周埋藏着大量的财富。
+
 ### 币安遗迹
 
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/BinanceIsland-3.jpeg)
