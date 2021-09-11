@@ -37,7 +37,7 @@ Before the launch of the MetaVoxel game, we will give away nearly half of the Bi
 
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.054.jpeg)
 
-Binance burning table is located at the top of Binance mountain. Because of burning BNB all year round, there is always hot metal liquid flowing in the burning table. You need to be extra careful standing next to the burning table.
+Binance Burning Table is located at the top of Binance Mountain. Because of burning BNB all year round, there is always hot metal liquid flowing in the burning table. You need to be extra careful standing next to the burning table.
 
 ### Lost Forest
 
