@@ -25,9 +25,11 @@
 
 ## Events
 
+* [SnowCrash DAO CoinMarketCap Autumn Special Airdrop Event](events/snowcrash-dao-coinmarketcap-autumn-special-airdrop-event.md)
 * [Airdrop Event 20210801](events/airdrop-event-20210801.md)
 
 ## Contact Us <a id="contact"></a>
 
 * [Contact Us](contact/contact.md)
 * [Social Accounts & Communities](contact/community.md)
+

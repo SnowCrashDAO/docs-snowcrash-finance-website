@@ -21,3 +21,4 @@ SnowCrash Space is a massive, collaborative, multiplayer open-world game. There 
 ## Please remember
 
 Last but not least, please remember that SnowCrash Space is a game that really belongs to you, a game that belongs to the players.
+

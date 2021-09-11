@@ -53,4 +53,5 @@ When players log in for the first time on Binance Island will land on the beach 
 
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-Tool.001.jpeg)
 
-After the launch of the official version of the MetaVoxel game, the first 500 players (tentative) who log in to MetaVoxel Windmill Island can pick up a Nora universal tool. Nora universal tool is the most powerful tool in the MetaVoxel world, which can chisel almost any rock layer, and is the most coveted tool for miners. Of course, the Nora universal tool also has some lethality and can be used to attack enemies (beasts).
+After the launch of the official version of the MetaVoxel game, the first 500 players \(tentative\) who log in to MetaVoxel Windmill Island can pick up a Nora universal tool. Nora universal tool is the most powerful tool in the MetaVoxel world, which can chisel almost any rock layer, and is the most coveted tool for miners. Of course, the Nora universal tool also has some lethality and can be used to attack enemies \(beasts\).
+

@@ -28,3 +28,4 @@ Admins will NEVER send you a direct message. If anybody approaches you directly 
 ## Medium
 
 [medium.com/@SnowCrashDAO](https://snowcrashdao.medium.com/)
+

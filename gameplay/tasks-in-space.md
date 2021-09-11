@@ -2,7 +2,7 @@
 
 > SnowCrash Space is in line with the player’s mission: to create a dynamic and sustainable world. Therefore, all the tasks in SnowCrash Space will revolve around “making the world a better place”. Here are some reference tasks.
 
-### Tasks in MetaVoxel
+## Tasks in MetaVoxel
 
 * Feed your virtual pet;
 * Take part in a game quiz to learn a new skill;
@@ -10,7 +10,7 @@
 * Work with other players to find the saboteur of the game;
 * And more…
 
-### Tasks in the real world
+## Tasks in the real world
 
 * Donate $1 worth of cryptocurrency to a charity;
 * Ride for 30 minutes;
@@ -19,3 +19,4 @@
 * Record moments in the city’s history with photos or videos;
 * Put up a charity poster;
 * And more…
+

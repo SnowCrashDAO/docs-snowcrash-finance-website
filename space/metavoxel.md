@@ -76,3 +76,4 @@ SnowCrash Space is fully open source and is licensed under the [Apache 2.0](http
 ## Platforms supported by SnowCrash Space
 
 SnowCrash Space supports Windows, macOS, iOS and Android. We will release the Windows and macOS versions first.
+
