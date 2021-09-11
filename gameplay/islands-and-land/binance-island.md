@@ -53,9 +53,9 @@ There is a relic in the endless Lost Forest of Binance Island. Although the wall
 
 ### Dense Forest Lake
 
-The Dense Forest Lake is the deepest lake on MetaVoxel Binance Island.
-
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.053.jpeg)
+
+The Dense Forest Lake is the deepest lake on MetaVoxel Binance Island.
 
 ### Metavoxel Windmill Island
 
