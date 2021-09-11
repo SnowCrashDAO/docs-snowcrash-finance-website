@@ -55,7 +55,7 @@ MetaVoxel 游戏上线前我们会将币安岛上近一半的小岛赠送给 BSC
 
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.053.jpeg)
 
-密林湖为 MetaVoxel 币安岛上最深的湖泊。
+密林湖为币安岛上最深的湖泊。
 
 ### MetaVoxel 风车岛
 
