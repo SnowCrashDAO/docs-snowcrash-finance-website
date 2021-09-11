@@ -54,3 +54,4 @@ MetaVoxel 游戏上线前我们会将币安岛上近一半的小岛赠送给 BSC
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-Tool.001.jpeg)
 
 MetaVoxel 游戏正式版上线后前 500（暂定）名玩家登录风车岛可以捡到一个 Nora 万能工具。Nora 万能工具是 MetaVoxel 世界中最强的工具，几乎上可以凿动任何岩层，是矿工最梦寐以求的工具。当然，Nora 万能工具也有一定杀伤力，可以用来攻击敌人（野兽）。
+

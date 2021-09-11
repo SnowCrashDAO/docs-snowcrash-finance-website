@@ -5,3 +5,4 @@
 SnowCrash DAO 为 SnowCrash Space 中的原生公司，负责整个社区的治理工作。你可以把 SnowCrash DAO 理解为现实世界中的政府。
 
 详细的税收分配和税率将在游戏正式版上线之后发布。
+

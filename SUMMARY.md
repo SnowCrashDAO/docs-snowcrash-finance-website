@@ -29,9 +29,11 @@
 
 ## 活动 <a id="events"></a>
 
+* [SnowCrash DAO CoinMarketCap 秋季特别空投活动](events/snowcrash-dao-coinmarketcap-autumn-special-airdrop-event.md)
 * [空投活动 20210801](events/airdrop-event-20210801.md)
 
 ## 联系我们 <a id="contact"></a>
 
 * [联系我们](contact/contact.md)
 * [社交媒体与社区](contact/community.md)
+
