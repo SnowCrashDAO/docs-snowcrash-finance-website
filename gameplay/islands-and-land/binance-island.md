@@ -33,6 +33,12 @@ Before the launch of the MetaVoxel game, we will give away nearly half of the Bi
 * Meebits Stonehenge;
 * For more information, please explore SnowCrash Space.
 
+### Binance Burning Table
+
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.054.jpeg)
+
+Binance burning table is located at the top of Binance mountain. Because of burning BNB all year round, there is always hot metal liquid flowing in the burning table. You need to be extra careful standing next to the burning table.
+
 ### Lost Forest
 
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.020.jpeg)
@@ -44,6 +50,12 @@ Lost Forest is the easiest place to get lost on Binance Island. But even so, the
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/BinanceIsland-3.jpeg)
 
 There is a relic in the endless Lost Forest of Binance Island. Although the wall of the relic has long been dilapidated, the huge Binance totem in the center of the relic is intact. There are a lot of $BNB scattered around the site, but it is difficult for explorers who come to the site to take these $BNB away easily. It is rumored that there is a mysterious force guarding this wealth all the time. Beneath the relic, there is a huge underground ancient city, and so far, no one has found out where the entrance to the underground ancient city is.
+
+### Dense Forest Lake
+
+The Dense Forest Lake is the deepest lake on MetaVoxel Binance Island.
+
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.053.jpeg)
 
 ### Metavoxel Windmill Island
 
