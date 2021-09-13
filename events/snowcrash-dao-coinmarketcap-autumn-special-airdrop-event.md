@@ -1,8 +1,8 @@
 # SnowCrash DAO CoinMarketCap Autumn Special Airdrop Event
 
-## Important note
-
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/CoinMarketCap-1.jpeg)
+
+## Important note
 
 We welcome anyone to participate in our airdrops, but if you habitually focus on short-term value, this airdrop may not be attractive to you. If you love freedom, love cryptocurrency, have unlimited enthusiasm and confidence in DAO, love playing games but not playing life, have adventurous spirits and love to challenge the impossible, you happen to have a dream to change the world like us.
 
