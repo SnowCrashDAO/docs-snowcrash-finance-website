@@ -14,7 +14,7 @@
 
 空投活动仅限合格参与者参与，为了成为合格的参与者，你必须完成以下任务：
 
-1. 将 $Nora 加入到你的 CMC 观察列表 https://coinmarketcap.com/currencies/snowcrash-token/
+1. 将 $Nora 加入到你的 CoinMarketCap 观察列表 https://coinmarketcap.com/currencies/snowcrash-token/
 2. 关注 SnowCrash DAO 官方 Twitter https://twitter.com/SnowCrashDAO
     1. 转发并评论置顶推文
     2. @三个朋友
@@ -32,8 +32,8 @@
 
 认真阅读 SnowCrash DAO 官方文档，正确回答下方微软表单中的问题（答案在官方文档中）可获得以下额外奖励。额外奖励将在空投活动结束后 15 天内转入你所提交的 BSC 钱包。
 
-1. 10,000 个 MetaVoxel Doge Token（答对 50%）；
-2. 20,000 个 MetaVoxel Doge Token（答对 60%）；
+1. 10,000 个 MetaVoxel Doge Token（答对 50%）。
+2. 20,000 个 MetaVoxel Doge Token（答对 60%）。
 3. MetaVoxel 游戏的首批玩家白名单（答对 70%）。
 4. MetaVoxel NFT 市场 7 折折扣券（完全正确）。
 
