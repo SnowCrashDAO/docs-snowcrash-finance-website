@@ -1,8 +1,8 @@
 # SnowCrash DAO CoinMarketCap 秋季特别空投活动
 
-## 重要提示
-
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/CoinMarketCap-1.jpeg)
+
+## 重要提示
 
 我们欢迎任何人参与我们的空投活动，但如果你习惯性的只关注短期价值，这个空投活动对你来说可能没有太大的吸引力。如果你热爱自由，热爱加密货币，对 DAO 充满无限热情和信心，热爱游戏但不游戏人生，富有冒险精神热衷于挑战不可能，如果你恰巧和我们一样都有一个改变世界的梦想。
 
