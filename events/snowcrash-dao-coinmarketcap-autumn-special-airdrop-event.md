@@ -39,9 +39,9 @@
 
 以上奖励可叠加。
 
-**SnowCrash DAO 官网** https://snowcrash.finance/
-**SnowCrash DAO 文档** https://docs.snowcrash.finance/
-**微软表单** https://forms.office.com/r/WD8dnTx7BU
+**SnowCrash DAO 官网** https://snowcrash.finance/  
+**SnowCrash DAO 文档** https://docs.snowcrash.finance/  
+**微软表单** https://forms.office.com/r/WD8dnTx7BU  
 
 ## 其他说明
 
