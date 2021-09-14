@@ -49,7 +49,7 @@ The above rewards can be stacked.
 
 **SnowCrash DAO Docs** https://docs.snowcrash.finance/
 
-**Microsoft forms** https://forms.office.com/r/WD8dnTx7BU
+**Microsoft forms** https://forms.office.com/r/sjzabssePd
 
 ## Other instructions
 
