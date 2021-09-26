@@ -78,7 +78,7 @@ In terms of smart contracts, before the official version of MetaVoxel is launche
 
 Many excellent project founding teams in the world are anonymous, including Bitcoin, PancakeSwap, and so on. We choose anonymity not because we think anonymity is cool or to follow suit, but because we think anonymity is more conducive to the development of the community.
 
-SnowCrash Space is a huge world, and we just designed and built the prototype of the world. It must be the players in the world who really make the world prosperous. Therefore, in our opinion, we did not create SnowCrash Space, but this era created SnowCrash Space, thousands of adventurers created SnowCrash Space. SnowCrash DAO does not belong to a certain person or team, it belongs to the whole community. If SnowCrash DAO ever appears on the cover of Time magazine in a positive light, we hope it will feature the names of every community member, not the founding team.
+SnowCrash Space is a huge world, and we just designed and built the prototype of the world. It must be the players in the world who really make the world prosperous. Therefore, in our opinion, we did not create SnowCrash Space, but this era created SnowCrash Space, thousands of adventurers created SnowCrash Space. SnowCrash DAO does not belong to a certain person or team, it belongs to the whole community. If SnowCrash DAO ever appears on the cover of Time Magazine in a positive light, we hope it will feature the names of every community member, not the founding team.
 
 Therefore, if someone asks who the SnowCrash DAO team members are? The standard answer should always be: $Nora holders.
 
