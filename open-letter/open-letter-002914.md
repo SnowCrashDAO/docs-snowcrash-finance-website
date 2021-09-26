@@ -14,7 +14,7 @@ Many people may think that MetaVoxel is just a game. However, in our view, MetaV
 
 Of course, in order to solve the doubts of community members more thoroughly, we will take this opportunity to release a small number of details about SnowCrash DAO's marketing plan, as follows.
 
-### MetaVoxel Immigration recommendation reward
+### MetaVoxel immigration recommendation reward
 
 The "Aboriginal Application Whitelist" will be opened before the launch of the official version of MetaVoxel, and whitelist users will become the first citizens in the MetaVoxel World. The first batch of MetaVoxel citizens have 5-10 slots for inviting friends to immigrate to the MetaVoxel World, and are rewarded for successfully inviting friends to immigrate to the MetaVoxel World.
 
