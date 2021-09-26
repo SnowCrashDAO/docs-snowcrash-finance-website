@@ -37,3 +37,7 @@
 * [联系我们](contact/contact.md)
 * [社交媒体与社区](contact/community.md)
 
+## 公开信 <a id="open-letter"></a>
+
+* [公开信](open-letter/open-letter.md)
+

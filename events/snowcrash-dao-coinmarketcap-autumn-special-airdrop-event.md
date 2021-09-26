@@ -14,15 +14,15 @@
 
 空投活动仅限合格参与者参与，为了成为合格的参与者，你必须完成以下任务：
 
-1. 将 $Nora 加入到你的 CoinMarketCap 观察列表 https://coinmarketcap.com/currencies/snowcrash-token/
-2. 关注 SnowCrash DAO 官方 Twitter https://twitter.com/SnowCrashDAO
-    1. 转发并评论置顶推文
-    2. @三个朋友
-    3. 加上标签 $Nora #MetaVoxel #SnowCrashDAO #GameFi #PlayToEarn
-3. 加入 SnowCrash DAO 官方电报群组 https://t.me/SnowCrashDAO
-4. 订阅 SnowCrash DAO 官方 YouTube 频道 https://www.youtube.com/channel/UC5Li60DsXOZqPypyeL2QTQA
-5. 浏览 SnowCrash DAO 官方文档 https://docs.snowcrash.finance/
-6. 在微软表单中登记你的相关信息 https://forms.office.com/r/WD8dnTx7BU
+1. 将 $Nora 加入到你的 CoinMarketCap 观察列表 [https://coinmarketcap.com/currencies/snowcrash-token/](https://coinmarketcap.com/currencies/snowcrash-token/)
+2. 关注 SnowCrash DAO 官方 Twitter [https://twitter.com/SnowCrashDAO](https://twitter.com/SnowCrashDAO)
+   1. 转发并评论置顶推文
+   2. @三个朋友
+   3. 加上标签 $Nora \#MetaVoxel \#SnowCrashDAO \#GameFi \#PlayToEarn
+3. 加入 SnowCrash DAO 官方电报群组 [https://t.me/SnowCrashDAO](https://t.me/SnowCrashDAO)
+4. 订阅 SnowCrash DAO 官方 YouTube 频道 [https://www.youtube.com/channel/UC5Li60DsXOZqPypyeL2QTQA](https://www.youtube.com/channel/UC5Li60DsXOZqPypyeL2QTQA)
+5. 浏览 SnowCrash DAO 官方文档 [https://docs.snowcrash.finance/](https://docs.snowcrash.finance/)
+6. 在微软表单中登记你的相关信息 [https://forms.office.com/r/WD8dnTx7BU](https://forms.office.com/r/WD8dnTx7BU)
 
 ## 奖励和分配
 
@@ -39,10 +39,11 @@
 
 以上奖励可叠加。
 
-**SnowCrash DAO 官网** https://snowcrash.finance/  
-**SnowCrash DAO 文档** https://docs.snowcrash.finance/  
-**微软表单** https://forms.office.com/r/sjzabssePd  
+**SnowCrash DAO 官网** [https://snowcrash.finance/](https://snowcrash.finance/)  
+**SnowCrash DAO 文档** [https://docs.snowcrash.finance/](https://docs.snowcrash.finance/)  
+**微软表单** [https://forms.office.com/r/sjzabssePd](https://forms.office.com/r/sjzabssePd)
 
 ## 其他说明
 
 有疑问你可随时在我们的电报群组中咨询我们的社区管理员或志愿者。
+
