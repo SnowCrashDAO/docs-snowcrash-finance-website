@@ -44,6 +44,8 @@ We've talked about this before: SnowCrash Space = Real World + MetaVoxel World \
 
 MetaVoxel World is a super large world composed of many Parallel Worlds. With the launch of the official version of MetaVoxel, each Parallel World will be able to keep 110 people online at the same time, including 100 players and 10 Parallel World patrol officers \(We call them swordsmen\). Parallel Worlds patrol officers have special skills \(Such as flying and fast movement skills\) in Parallel Worlds and can travel freely between different Parallel Worlds. Their mission is to maintain peace in Parallel Worlds, such as helping players out of troubles and detect cheating players.
 
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/SnowCrashSpace-Worlds.png)
+
 Parallel World maps are updated in real time \(Up to 110 people online at the same time, data updated in real time\). MetaVoxel World map is updated weekly or monthly at a fixed time, when the maps of each Parallel World are automatically merged and overwrite the existing maps of MetaVoxel World.
 
 Please note: although the maps between each Parallel World are not updated in real time, but the time and mineral coordinates in each Parallel World are synchronized with the MetaVoxel World in real time. This means that when a mineral in a Parallel World is dug away by a player, the mineral disappears in other Parallel Worlds.
