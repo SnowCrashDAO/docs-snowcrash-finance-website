@@ -28,7 +28,7 @@ _The details of immigration policy, invitation mechanism and invitation reward w
 
 ### Binance Island small island \(Co-marketing\)
 
-There are thousands of small islands around Binance Island. Quality project representatives in BSC Ecology can claim an island for free. Of course, the premise is to hold more than three marketing events on Binance Island. We believe linking to more projects is very "lucrative" for both MetaVoxel and our partners.
+There are thousands of small islands around Binance Island. Quality project representatives in BSC ecology can claim an island for free. Of course, the premise is to hold more than three marketing events on Binance Island. We believe linking to more projects is very "lucrative" for both MetaVoxel and our partners.
 
 ### Twitter crypto opinion leader referral reward \(Co-marketing\)
 
