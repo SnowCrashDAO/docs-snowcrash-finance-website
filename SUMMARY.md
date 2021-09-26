@@ -33,3 +33,7 @@
 * [Contact Us](contact/contact.md)
 * [Social Accounts & Communities](contact/community.md)
 
+## Open Letter
+
+* [Open Letter](open-letter/open-letter.md)
+
