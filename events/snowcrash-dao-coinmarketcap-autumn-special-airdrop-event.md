@@ -1,10 +1,10 @@
 # SnowCrash DAO CoinMarketCap Autumn Special Airdrop Event
 
-![](https://img.snowcrash.finance/site/docs-snowcrash-finance/CoinMarketCap-1.jpeg)
-
 ## Winner list
 
 [Click here to see the winner list](https://docs.google.com/spreadsheets/d/1QlwNJDUB_WkhNXt__jBTYPdbJogIE2iu/). If you are on the list, you will receive $Nora airdrop within 72 hours.
+
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/CoinMarketCap-1.jpeg)
 
 ## Important note
 
