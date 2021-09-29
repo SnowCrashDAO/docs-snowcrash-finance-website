@@ -1,5 +1,9 @@
 # SnowCrash DAO CoinMarketCap 秋季特别空投活动
 
+## 获奖名单
+
+[点击这里查看获奖名单](https://docs.google.com/spreadsheets/d/1QlwNJDUB_WkhNXt__jBTYPdbJogIE2iu/)。如果你在名单之中，那么你将在 72 小时以内收到 $Nora 空投。
+
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/CoinMarketCap-1.jpeg)
 
 ## 重要提示
