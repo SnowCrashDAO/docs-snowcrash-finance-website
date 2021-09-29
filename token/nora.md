@@ -2,7 +2,7 @@
 
 > 我们希望，Nora 第一批持有者应该是那些真正理解和欣赏 Nora 的冒险家、开拓者、传播者，而非投机分子。我们希望 Nora 成为一个真正由社区推动的项目。
 
-## Token 概述
+## 代币概述
 
 代币名称：SnowCrash Token  
 代币符号：Nora  
@@ -28,4 +28,3 @@
 2. 长期持有。
 
 [在 PancakeSwap 上购买 Nora](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0)
-
