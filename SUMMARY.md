@@ -37,3 +37,7 @@
 
 * [Open Letter 002914](open-letter/open-letter-002914.md)
 
+## Announcement
+
+* [\#imToken \#7210](announcement/imtoken-7210.md)
+
