@@ -15,6 +15,7 @@
 
 * 🌐 英文 [t.me/SnowCrashDAO](https://t.me/SnowCrashDAO)
 * 🇨🇳 中文 [t.me/NoraChinese](https://t.me/NoraChinese)
+* 🇹🇷 土耳其 [t.me/NoraTurkey](https://t.me/NoraTurkey)
 * 🇵🇭 菲律宾 [t.me/NoraPhilippines](https://t.me/NoraPhilippines)
 
 ## YouTube
