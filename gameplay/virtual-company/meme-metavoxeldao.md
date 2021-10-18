@@ -51,7 +51,7 @@ It will be announced after the second and third events.
 
 ## Latest airdrop event for $Me3 holders
 
-One MEPE (Metavoxel Petrichor Island land NFT, click here to learn more) will be airdropped for every 10 $Me3, and MEPE with different numbers will be airdropped randomly. The airdrop will be released within 1 month after the pre-sale event. Three days before the airdrop, we will take a snapshot of the amount of $Me3. Before the snapshot, we will make an announcement on Twitter.
+One MEPE (Metavoxel Petrichor Island land NFT, [click here to learn more](https://docs.snowcrash.finance/gameplay/islands-and-land/petrichor-island)) will be airdropped for every 10 $Me3, and MEPE with different numbers will be airdropped randomly. The airdrop will be released within 1 month after the pre-sale event. Three days before the airdrop, we will take a snapshot of the amount of $Me3. Before the snapshot, we will make an announcement on Twitter.
 
 *Note: The contract address and Meme MetaVoxelDAO financial wallet do not participate in this airdrop event.*
 
