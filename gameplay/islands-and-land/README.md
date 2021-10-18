@@ -16,9 +16,14 @@ MetaVoxel 世界中有不同类型的土地。包括但不限于：创世、原�
 
 ## 核心土地
 
-* Petrichor 岛屿；
+* [Petrichor 岛](https://docs.snowcrash.finance/v/chinese/gameplay/islands-and-land/petrichor-island)；
 * [币安岛](https://docs.snowcrash.finance/v/chinese/gameplay/islands-and-land/binance-island)（岛屿/原始矿区）；
 * 更多。
 
-{% page-ref page="binance-island.md" %}
+{% content-ref url="petrichor-island.md" %}
+[petrichor-island.md](petrichor-island.md)
+{% endcontent-ref %}
 
+{% content-ref url="binance-island.md" %}
+[binance-island.md](binance-island.md)
+{% endcontent-ref %}
