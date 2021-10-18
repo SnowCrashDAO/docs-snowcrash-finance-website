@@ -12,7 +12,9 @@
 
 矿业公司核心使命是为玩家提供挖矿服务。例如：为其提供挖矿交流和培训服务。
 
+{% hint style="info" %}
 重要提示：当前所有虚拟公司均为试运营状态，核心目的是为了让早期玩家提前熟悉虚拟公司是如何运营的，提前为自己的虚拟公司储备人才。早期的虚拟公司 Token 经济模型由 Meme MetaVoxelDAO 和 SnowCrash DAO 设计。
+{% endhint %}
 
 ## 关于虚拟公司你需要知道
 
@@ -51,7 +53,7 @@ Meme MetaVoxelDAO 会免费为一些优秀的虚拟公司提供如下服务。
 
 [https://forms.gle/X79SYbV5xtAEvqSX6](https://forms.gle/X79SYbV5xtAEvqSX6)
 
-*备注：虚拟公司名不能和现实世界的知名公司同名。*
+_备注：虚拟公司名不能和现实世界的知名公司同名。_
 
 ## $Nora 持有者可能会关注的几个问题
 
