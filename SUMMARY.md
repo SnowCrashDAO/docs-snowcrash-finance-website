@@ -15,6 +15,7 @@
 * [挖矿](gameplay/mining.md)
 * [建造](gameplay/building.md)
 * [岛屿和土地](gameplay/islands-and-land/README.md)
+  * [Petrichor 岛](gameplay/islands-and-land/petrichor-island.md)
   * [币安岛](gameplay/islands-and-land/binance-island.md)
 * [边玩边赚](gameplay/play-to-earn.md)
 * [虚拟公司](gameplay/virtual-company.md)
@@ -34,4 +35,5 @@
 
 ## 公开信 <a href="open-letter" id="open-letter"></a>
 
+* [公开信 003623](open-letter/open-letter-003623.md)
 * [公开信 002914](open-letter/open-letter-002914.md)
