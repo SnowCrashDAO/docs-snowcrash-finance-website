@@ -57,9 +57,9 @@ Meme MetaVoxelDAO 员工：10%
 
 ## 相关链接
 
-- MetaVoxel 岛屿和土地
-- Petrichor 岛和土地
-- MetaVoxel 虚拟公司
+- [MetaVoxel 岛屿和土地](https://docs.snowcrash.finance/v/chinese/gameplay/islands-and-land)
+- [Petrichor 岛和土地](https://docs.snowcrash.finance/v/chinese/gameplay/islands-and-land/petrichor-island)
+- [MetaVoxel 虚拟公司](https://docs.snowcrash.finance/v/chinese/gameplay/virtual-company)
 
 ## 常见问题
 
