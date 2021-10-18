@@ -2,12 +2,12 @@
 
 * [SnowCrash DAO 介绍](README.md)
 
-## 介绍 <a id="space"></a>
+## 介绍 <a href="space" id="space"></a>
 
 * [雪崩空间](space/snowcrash-space.md)
 * [MetaVoxel](space/metavoxel.md)
 
-## 游戏玩法 <a id="gameplay"></a>
+## 游戏玩法 <a href="gameplay" id="gameplay"></a>
 
 * [游戏玩法](gameplay/overview.md)
 * [玩家浏览提示](gameplay/players-browsing-tips.md)
@@ -23,21 +23,15 @@
 * [游戏中的任务](gameplay/tasks-in-space.md)
 * [时区](gameplay/time-zone.md)
 
-## 代币 <a id="token"></a>
+## 代币 <a href="token" id="token"></a>
 
 * [Nora](token/nora.md)
 
-## 活动 <a id="events"></a>
-
-* [SnowCrash DAO CoinMarketCap 秋季特别空投活动](events/snowcrash-dao-coinmarketcap-autumn-special-airdrop-event.md)
-* [空投活动 20210801](events/airdrop-event-20210801.md)
-
-## 联系我们 <a id="contact"></a>
+## 联系我们 <a href="contact" id="contact"></a>
 
 * [联系我们](contact/contact.md)
 * [社交媒体与社区](contact/community.md)
 
-## 公开信 <a id="open-letter"></a>
+## 公开信 <a href="open-letter" id="open-letter"></a>
 
 * [公开信 002914](open-letter/open-letter-002914.md)
-
