@@ -38,7 +38,7 @@ Meme MetaVoxelDAO 员工：10%
 
 价格：1 $Me3 = 0.1 BNB  
 开始和截止日期：2021 年 10 月 21 号 8:00 - 2021 年 10 月 28 号 8:00，UTC 时间  
-如何参与：点击这里在 Bounce 上使用 BNB 进行兑换  
+如何参与：[点击这里在 Bounce 上使用 BNB 进行兑换](https://app.bounce.finance/auction/fixed/169)  
 每个钱包最大分配：10 BNB  
 
 ### 第二期预售活动
