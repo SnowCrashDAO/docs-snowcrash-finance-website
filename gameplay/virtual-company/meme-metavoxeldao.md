@@ -51,7 +51,7 @@ Meme MetaVoxelDAO 员工：10%
 
 ## 面向 $Me3 持有者的最新空投活动
 
-每持有 10 $Me3 空投 1 个 MEPE（MetaVoxel Petrichor 岛土地 NFT，点击这里了解更多），不同编号的 MEPE 随机空投。空投将于预售活动结束后 1 个月内发放，发放空投前 3 天会对 $Me3 持有数量进行快照，快照前我们会在 Twitter 上发布公告。
+每持有 10 $Me3 空投 1 个 MEPE（MetaVoxel Petrichor 岛土地 NFT，[点击这里了解更多](https://docs.snowcrash.finance/v/chinese/gameplay/islands-and-land/petrichor-island)），不同编号的 MEPE 随机空投。空投将于预售活动结束后 1 个月内发放，发放空投前 3 天会对 $Me3 持有数量进行快照，快照前我们会在 Twitter 上发布公告。
 
 *备注：合约地址、Meme MetaVoxelDAO 财务钱包不参与该空投活动。*
 
