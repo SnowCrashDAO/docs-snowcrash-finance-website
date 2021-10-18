@@ -1,5 +1,7 @@
 # Petrichor Island
 
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-Petrichor-Map-2500px.jpg)
+
 Let’s explore DAO's greatest potential together on Petrichor Island.
 
 Petrichor Island is currently the largest island in the MetaVoxel world. 80% of the land on the island is commercial land. SnowCrash DAO’s headquarter is also located on Petrichor Island.
