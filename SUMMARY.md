@@ -23,11 +23,6 @@
 * [Tasks in Space](gameplay/tasks-in-space.md)
 * [Time Zone](gameplay/time-zone.md)
 
-## Events
-
-* [SnowCrash DAO CoinMarketCap Autumn Special Airdrop Event](events/snowcrash-dao-coinmarketcap-autumn-special-airdrop-event.md)
-* [Airdrop Event 20210801](events/airdrop-event-20210801.md)
-
 ## Contact Us <a href="contact" id="contact"></a>
 
 * [Contact Us](contact/contact.md)
