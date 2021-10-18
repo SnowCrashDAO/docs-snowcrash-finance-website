@@ -19,7 +19,7 @@ Meme MetaVoxelDAO 总部位于 MetaVoxel Petrichor 岛，是 MetaVoxel 世界中
 符号：$Me3  
 发行量：142,857 $Me3  
 网络：币安智能链（BSC）  
-合约地址：0x0e2ad3737c08ad55fd1cd5213bf1abd577e8cb67  
+合约地址：[0x0e2ad3737c08ad55fd1cd5213bf1abd577e8cb67](https://bscscan.com/token/0x0e2ad3737c08ad55fd1cd5213bf1abd577e8cb67)  
 
 ## 代币经济学
 
