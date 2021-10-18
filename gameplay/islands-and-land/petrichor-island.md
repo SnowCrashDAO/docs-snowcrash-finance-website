@@ -32,11 +32,11 @@ We want you to understand that the land you are buying is just a "Blank Piece of
 
 ## NFT overview
 
-Name: MetaVoxel Petrichor Island Land
-Symbol: MEPE
-Total Supply: 2,980 MEPE
-Blockchain Platform: Binance Smart Chain (BSC)
-Contract Address: To be announced
+Name: MetaVoxel Petrichor Island Land  
+Symbol: MEPE  
+Total Supply: 2,980 MEPE  
+Blockchain Platform: Binance Smart Chain (BSC)  
+Contract Address: To be announced  
 
 ## Land pre-sale plan
 

@@ -15,20 +15,20 @@ Meme MetaVoxelDAO, headquartered on MetaVoxel Petrichor Island, is a virtual com
 
 ## Token overview
 
-Name: Meme MetaVoxelDAO
-Symbol: $Me3
-Total Supply: $142,857 Me3
-Blockchain Platform: Binance Smart Chain (BSC)
-Contract Address: 0x0e2ad3737c08ad55fd1cd5213bf1abd577e8cb67
+Name: Meme MetaVoxelDAO  
+Symbol: $Me3  
+Total Supply: $142,857 Me3  
+Blockchain Platform: Binance Smart Chain (BSC)  
+Contract Address: 0x0e2ad3737c08ad55fd1cd5213bf1abd577e8cb67  
 
 ## Token economics
 
-Meme MetaVoxelDAO founding team (SnowCrash DAO): 20%
-Meme MetaVoxelDAO employees: 10%
-Binance Island mine pool reservation: 45%
-Public sales: 10%
-Liquidity: TBD
-Marketing: 5%
+Meme MetaVoxelDAO founding team (SnowCrash DAO): 20%  
+Meme MetaVoxelDAO employees: 10%  
+Binance Island mine pool reservation: 45%  
+Public sales: 10%  
+Liquidity: TBD  
+Marketing: 5%  
 
 ## How to buy $Me3?
 
@@ -36,10 +36,10 @@ You can participate in $Me3 pre-sale or exchange $Me3 at PancakeSwap after the p
 
 ### First pre-sale event
 
-Price: 1 $Me3 = 0.1 BNB
-Start and end date: October 21, 2021 8:00 - October 28, 2021 8:00 UTC
-How to participate: [Click here to exchange using BNB on Bounce](https://app.bounce.finance/auction/fixed/169)
-Maximum allocation per wallet: 10 BNB
+Price: 1 $Me3 = 0.1 BNB  
+Start and end date: October 21, 2021 8:00 - October 28, 2021 8:00 UTC  
+How to participate: [Click here to exchange using BNB on Bounce](https://app.bounce.finance/auction/fixed/169)  
+Maximum allocation per wallet: 10 BNB  
 
 ### Second pre-sale event
 
