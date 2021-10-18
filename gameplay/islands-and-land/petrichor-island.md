@@ -1,5 +1,7 @@
 # Petrichor 岛
 
+![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-Petrichor-Map-2500px.jpg)
+
 在 Petrichor 岛，一同探索 DAO 的最大潜力。
 
 Petrichor 岛为 MetaVoxel 世界当前最大的一个岛屿，岛上 80% 土地为商业用地。SnowCrash DAO 总部也坐落于 Petrichor 岛。
