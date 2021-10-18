@@ -12,7 +12,9 @@ The core mission of the marketing company is to spread MetaVoxel to the world, t
 
 The core mission of mining companies is to provide mining services for players. For example: to provide mining exchanges and training services.
 
+{% hint style="info" %}
 Important note: at present, all virtual companies are in the stage of trial operation, and the core purpose is to make early players familiar with how virtual companies operate and reserve talents for their own virtual companies in advance. The early token economic model of a virtual company was designed by Meme MetaVoxelDAO and SnowCrash DAO.
+{% endhint %}
 
 ## What you need to know about virtual companies
 
@@ -51,7 +53,7 @@ If you are currently qualified to create a virtual company, please click the but
 
 [https://forms.gle/X79SYbV5xtAEvqSX6](https://forms.gle/X79SYbV5xtAEvqSX6)
 
-*Note: the name of a virtual company cannot be the same as a well-known company in the real world.*
+_Note: the name of a virtual company cannot be the same as a well-known company in the real world._
 
 ## A few issues that $Nora holders might be concerned about
 
