@@ -15,6 +15,7 @@
 * [Mining](gameplay/mining.md)
 * [Building](gameplay/building.md)
 * [Islands and Land](gameplay/islands-and-land/README.md)
+  * [Petrichor Island](gameplay/islands-and-land/petrichor-island.md)
   * [Binance Island](gameplay/islands-and-land/binance-island.md)
 * [Play to Earn](gameplay/play-to-earn.md)
 * [Virtual Company](gameplay/virtual-company.md)
