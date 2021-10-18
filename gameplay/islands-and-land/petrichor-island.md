@@ -10,7 +10,7 @@ Petrichor Island is currently the largest island in the MetaVoxel world. 80% of 
 
 ## What you need to know about Petrichor Island
 
-We want you to understand that the land you are buying is just a "Blank Piece of Paper", and if you want the "Blank Piece of Paper" to grow in value, you have to draw on the "Blank Piece of Paper". We encourage landowners to paint as much as they like, to build as much as they like, rather than wait for the land to grow in value.
+> We want you to understand that the land you are buying is just a "Blank Piece of Paper", and if you want the "Blank Piece of Paper" to grow in value, you have to draw on the "Blank Piece of Paper". We encourage landowners to paint as much as they like, to build as much as they like, rather than wait for the land to grow in value.
 
 - There is a "New Citizen Gift Pack" buried under every piece of land on the island, which can be dug up within a month of MetaVoxel launching. If you don't dig out the gift bag for more than a month, it will disappear automatically.
 - **In addition to the "New Citizen Gift Pack", there are some seeds buried under each piece of land. The more visitors there are on the land, the faster the seeds will grow, and the lusher the plants will be, the greener the land will be, and the value of the land will probably be higher.**
