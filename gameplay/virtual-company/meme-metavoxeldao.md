@@ -57,9 +57,9 @@ One MEPE (Metavoxel Petrichor Island land NFT, click here to learn more) will be
 
 ## Related links
 
-- MetaVoxel islands and land
-- Petrichor Island and land
-- MetaVoxel Virtual Company
+- [MetaVoxel islands and land](https://docs.snowcrash.finance/gameplay/islands-and-land)
+- [Petrichor Island and land](https://docs.snowcrash.finance/gameplay/islands-and-land/petrichor-island)
+- [MetaVoxel Virtual Company](https://docs.snowcrash.finance/gameplay/virtual-company)
 
 ## FAQ
 
