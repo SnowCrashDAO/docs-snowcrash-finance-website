@@ -17,6 +17,7 @@ Admins will NEVER send you a direct message. If anybody approaches you directly 
 * 🇨🇳 Chinese [t.me/NoraChinese](https://t.me/NoraChinese)
 * 🇹🇷 Turkey [t.me/NoraTurkey](https://t.me/NoraTurkey)
 * 🇵🇭 Philippines [t.me/NoraPhilippines](https://t.me/NoraPhilippines)
+* 🇵🇭 Brazil [https://t.me/NoraBrazil](https://t.me/NoraBrazil)
 
 ## YouTube
 
