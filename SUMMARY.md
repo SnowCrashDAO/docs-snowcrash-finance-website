@@ -20,7 +20,7 @@
 * [Play to Earn](gameplay/play-to-earn.md)
 * [Virtual Company](gameplay/virtual-company/README.md)
   * [Meme MetaVoxelDAO](gameplay/virtual-company/meme-metavoxeldao.md)
-* [Company List](https://daos.snowcrash.space)
+  * [Company List](https://daos.snowcrash.space)
 * [Tax](gameplay/tax.md)
 * [Advertising](gameplay/advertising.md)
 * [Tasks in Space](gameplay/tasks-in-space.md)
