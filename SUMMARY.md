@@ -20,6 +20,7 @@
 * [边玩边赚](gameplay/play-to-earn.md)
 * [虚拟公司](gameplay/virtual-company/README.md)
   * [Meme MetaVoxelDAO](gameplay/virtual-company/meme-metavoxeldao.md)
+  * [公司列表](https://daos.snowcrash.space)
 * [税收](gameplay/tax.md)
 * [广告](gameplay/advertising.md)
 * [游戏中的任务](gameplay/tasks-in-space.md)
