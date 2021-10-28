@@ -38,7 +38,7 @@ You can participate in $Me3 pre-sale or exchange $Me3 at PancakeSwap after the p
 
 Price: 1 $Me3 = 0.1 BNB  
 Start and end date: October 21, 2021 8:00 - October 28, 2021 8:00 UTC  
-How to participate: [Click here to exchange using BNB on Bounce](https://app.bounce.finance/auction/fixed/169)  
+How to participate: ~~Click here to exchange using BNB on Bounce~~  
 Maximum allocation per wallet: 10 BNB  
 
 ### Second pre-sale event
