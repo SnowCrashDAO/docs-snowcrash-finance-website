@@ -43,7 +43,10 @@ Meme MetaVoxelDAO 员工：10%
 
 ### 第二期预售活动
 
-第一期预售活动结束后公布。
+价格：1 $Me3 = 1,500 $Nora  
+开始和截止日期：2021 年 11 月 1 号 8:00 - 2021 年 11 月 3 号 8:00，UTC 时间  
+如何参与：[点击这里在 Bounce 上使用 $Nora 进行兑换](https://app.bounce.finance/auction/fixed/178)  
+每个钱包最大分配：200,000 $Nora
 
 ### 在 PancakeSwap 上兑换 $Me3
 
