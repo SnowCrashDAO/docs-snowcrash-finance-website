@@ -43,7 +43,10 @@ Maximum allocation per wallet: 10 BNB
 
 ### Second pre-sale event
 
-It will be announced after the first event.
+Price: 1 $Me3 = 1,500 $Nora  
+Start and end date: November 1, 2021 8:00 - November 3, 2021 8:00 UTC  
+How to participate: [Click here to exchange using $Nora on Bounce](https://app.bounce.finance/auction/fixed/178)  
+Maximum allocation per wallet: 200,000 $Nora
 
 ### Exchange $Me3 on PancakeSwap
 
