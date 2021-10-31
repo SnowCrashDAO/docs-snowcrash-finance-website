@@ -17,7 +17,7 @@ Meme MetaVoxelDAO, headquartered on MetaVoxel Petrichor Island, is a virtual com
 
 Name: Meme MetaVoxelDAO  
 Symbol: $Me3  
-Total Supply: $142,857 Me3  
+Total Supply: 142,857 $Me3  
 Blockchain Platform: Binance Smart Chain (BSC)  
 Contract Address: [0x0e2ad3737c08ad55fd1cd5213bf1abd577e8cb67](https://bscscan.com/token/0x0e2ad3737c08ad55fd1cd5213bf1abd577e8cb67)  
 
