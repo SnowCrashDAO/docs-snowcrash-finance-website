@@ -39,3 +39,8 @@
 
 * [公开信 003623](open-letter/open-letter-003623.md)
 * [公开信 002914](open-letter/open-letter-002914.md)
+
+## 工作机会 <a href="career-opportunities" id="career-opportunities"></a>
+
+* [在 SnowCrash DAO 工作](career-opportunities/work-at-snowcrash-dao/README.md)
+  * [Solidity Engineer](career-opportunities/work-at-snowcrash-dao/solidity-engineer.md)
