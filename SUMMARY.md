@@ -35,3 +35,8 @@
 
 * [Open Letter 003623](open-letter/open-letter-003623.md)
 * [Open Letter 002914](open-letter/open-letter-002914.md)
+
+## Career Opportunities
+
+* [Work at SnowCrash DAO](career-opportunities/work-at-snowcrash-dao/README.md)
+  * [Solidity Engineer](career-opportunities/work-at-snowcrash-dao/solidity-engineer.md)
