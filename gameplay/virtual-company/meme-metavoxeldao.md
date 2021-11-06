@@ -32,22 +32,7 @@ Meme MetaVoxelDAO 员工：10%
 
 ## 如何购买 $Me3？
 
-你可参与 $Me3 预售或在预售结束后在 PancakeSwap 上兑换 $Me3。
-
-### 第一期预售活动
-
-已结束。  
-
-### 第二期预售活动
-
-价格：1 $Me3 = 1,500 $Nora  
-开始和截止日期：2021 年 11 月 1 号 8:00 - 2021 年 11 月 3 号 8:00，UTC 时间  
-如何参与：[点击这里在 Bounce 上使用 $Nora 进行兑换](https://app.bounce.finance/auction/fixed/178)  
-每个钱包最大分配：200,000 $Nora
-
-### 在 PancakeSwap 上兑换 $Me3
-
-第二期或第三期预售活动结束后公布。
+你可在 PancakeSwap 上使用 $Nora 兑换 $Me3。
 
 ## 面向 $Me3 持有者的最新空投活动
 
