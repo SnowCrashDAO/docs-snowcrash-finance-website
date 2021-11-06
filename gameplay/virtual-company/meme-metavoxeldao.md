@@ -32,22 +32,7 @@ Marketing: 5%
 
 ## How to buy $Me3?
 
-You can participate in $Me3 pre-sale or exchange $Me3 at PancakeSwap after the pre-sale.
-
-### First pre-sale event
-
-It's finished.  
-
-### Second pre-sale event
-
-Price: 1 $Me3 = 1,500 $Nora  
-Start and end date: November 1, 2021 8:00 - November 3, 2021 8:00 UTC  
-How to participate: [Click here to exchange using $Nora on Bounce](https://app.bounce.finance/auction/fixed/178)  
-Maximum allocation per wallet: 200,000 $Nora
-
-### Exchange $Me3 on PancakeSwap
-
-It will be announced after the second and third events.
+You can exchange $Nora for $Me3 on PancakeSwap.
 
 ## Latest airdrop event for $Me3 holders
 
