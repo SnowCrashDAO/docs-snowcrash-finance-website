@@ -10,7 +10,7 @@ Meme MetaVoxelDAO, headquartered on MetaVoxel Petrichor Island, is a virtual com
 1. Meme MetaVoxelDAO is the first non-native virtual company in the MetaVoxel world, as well as the first virtual company supported by SnowCrash DAO.
 2. MetaVoxel will airdrop 10%-50% of each new NFT issued by MetaVoxel to $Me3 holders in the next 2 years.
 3. Meme MetaVoxelDAO will airdrop benefits for employees and $Me3 holders from time to time. The longer you hold $Me3, the more benefits you will get.
-4. Meme MetaVoxelDAO is probably the only virtual company in the MetaVoxle world where employees don't have to work.
+4. Meme MetaVoxelDAO is probably the only virtual company in the MetaVoxel world where employees don't have to work.
 5. MetaVoxelDAO is probably the biggest virtual company in the MetaVoxel world.
 
 ## Token overview

@@ -10,7 +10,7 @@ This open letter touches on technical topics that might be difficult for the ave
 
 > We will try to make a game that most people are willing to share and show on social platforms, and most people are willing to invite friends to play. This is our marketing plan.
 
-Many people may think that MetaVoxel is just a game. However, in our view, MetaVoxle is not just a game. In fact, we have never simply defined MetaVoxel as a game. What we want to create is a social platform, a world infinitely close to reality. Anyone can meet new people, play, and work in the MetaVoxel World. If you can understand this \(MetaVoxel is not only a game, but also a social product\). You can understand why we are not so anxious about marketing. Because excellent social products will spread automatically.
+Many people may think that MetaVoxel is just a game. However, in our view, MetaVoxel is not just a game. In fact, we have never simply defined MetaVoxel as a game. What we want to create is a social platform, a world infinitely close to reality. Anyone can meet new people, play, and work in the MetaVoxel World. If you can understand this \(MetaVoxel is not only a game, but also a social product\). You can understand why we are not so anxious about marketing. Because excellent social products will spread automatically.
 
 Of course, in order to solve the doubts of community members more thoroughly, we will take this opportunity to release a small number of details about SnowCrash DAO's marketing plan, as follows.
 
