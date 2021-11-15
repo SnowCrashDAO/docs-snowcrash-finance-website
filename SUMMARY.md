@@ -26,10 +26,10 @@
 * [Tasks in Space](gameplay/tasks-in-space.md)
 * [Time Zone](gameplay/time-zone.md)
 
-## Contact Us <a href="contact" id="contact"></a>
+## Token
 
-* [Contact Us](contact/contact.md)
-* [Social Accounts & Communities](contact/community.md)
+* [$Nora](token/nora.md)
+* [$PushDoge](token/pushdoge.md)
 
 ## Open Letter
 
@@ -41,7 +41,7 @@
 * [Work at SnowCrash DAO](career-opportunities/work-at-snowcrash-dao/README.md)
   * [Solidity Engineer](career-opportunities/work-at-snowcrash-dao/solidity-engineer.md)
 
-## Token
+## Contact Us <a href="contact" id="contact"></a>
 
-* [$Nora](token/nora.md)
-* [$PushDoge](token/pushdoge.md)
+* [Contact Us](contact/contact.md)
+* [Social Accounts & Communities](contact/community.md)
