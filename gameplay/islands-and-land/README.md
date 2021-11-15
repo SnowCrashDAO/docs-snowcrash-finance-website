@@ -10,7 +10,7 @@ The core islands and land in the MetaVoxel world are drawn by the excellent desi
 
 ## Land types
 
-There are different types of land in the MetaVoxel world. Including but not limited to: Genesis, primitive mining areas, commercial land, the Arctic, islands, forests, mysterious areas, public land, reclamation.
+There are different types of land in the MetaVoxel world. Including but not limited to: Genesis, primitive mining areas, commercial land, the arctic, islands, forests, mysterious areas, public land, reclamation.
 
 Primitive mines are usually rich in minerals, plants and animals, and raw materials, allowing rookie players to accumulate wealth quickly. Commercial land can be used to build houses and create virtual companies, which is a good place to add value to your wealth quickly.
 
