@@ -31,11 +31,6 @@
 * [$Nora](token/nora.md)
 * [$PushDoge](token/pushdoge.md)
 
-## 联系我们 <a href="contact" id="contact"></a>
-
-* [联系我们](contact/contact.md)
-* [社交媒体与社区](contact/community.md)
-
 ## 公开信 <a href="open-letter" id="open-letter"></a>
 
 * [公开信 003623](open-letter/open-letter-003623.md)
@@ -45,3 +40,8 @@
 
 * [在 SnowCrash DAO 工作](career-opportunities/work-at-snowcrash-dao/README.md)
   * [Solidity Engineer](career-opportunities/work-at-snowcrash-dao/solidity-engineer.md)
+
+## 联系我们 <a href="contact" id="contact"></a>
+
+* [联系我们](contact/contact.md)
+* [社交媒体与社区](contact/community.md)
