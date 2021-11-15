@@ -43,5 +43,5 @@
 
 ## Token
 
-* [$Nora](token/usdnora.md)
+* [$Nora](token/nora.md)
 * [$PushDoge](token/pushdoge.md)
