@@ -28,7 +28,8 @@
 
 ## 代币 <a href="token" id="token"></a>
 
-* [Nora](token/nora.md)
+* [$Nora](token/nora.md)
+* [$PushDoge](token/usdpushdoge.md)
 
 ## 联系我们 <a href="contact" id="contact"></a>
 
