@@ -10,7 +10,7 @@ Meme MetaVoxelDAO 总部位于 MetaVoxel Petrichor 岛，是 MetaVoxel 世界中
 1. Meme MetaVoxelDAO 是 MetaVoxel 世界中第一家非原生虚拟公司，也是 SnowCrash DAO 扶持的第一家虚拟公司。
 2. 未来 2 年内，MetaVoxel 每次发行新 NFT 均会拿出 10%-50% 空投给 $Me3 持有者。
 3. Meme MetaVoxelDAO 会不定期为员工和 $Me3 持有者空投福利，持有 $Me3 时间越长福利越多。
-4. Meme MetaVoxelDAO 可能是 MetaVoxle 世界中唯一一家员工不需要工作的虚拟公司。
+4. Meme MetaVoxelDAO 可能是 MetaVoxel 世界中唯一一家员工不需要工作的虚拟公司。
 5. Meme MetaVoxelDAO 可能是 MetaVoxel 世界里最大的一家虚拟公司。
 
 ## 代币概述
