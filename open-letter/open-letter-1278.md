@@ -26,3 +26,5 @@ If you have been involved in building MetaVoxel, please save relevant credential
 
 1. Thank you to every Protagonist for your contributions.
 2. Any waiting is worth it. $Nora holders did not let us down, is there any reason for us to disappoint $Nora holders?
+
+SnowCrash DAO Team

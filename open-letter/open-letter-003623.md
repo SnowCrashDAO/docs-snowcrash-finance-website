@@ -68,3 +68,5 @@ Soon, stay tuned for community announcements.
 ### When will virtual company registration be opened?
 
 Before the launch of MetaVoxel, a small number of virtual company registrations will be opened. stay tuned for community announcements.
+
+SnowCrash DAO Team
