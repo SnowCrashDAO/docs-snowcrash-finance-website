@@ -3,7 +3,7 @@
 ![](https://img.snowcrash.finance/site/docs-snowcrash-finance/MetaVoxel-PAA.016.jpeg)
 
 {% hint style="success" %}
-在 MetaVoxle 世界里，每一个岛屿和土地都对应一个 NFT（非同质化代币），玩家可以自由的交易。拥有土地就拥有土地上的一切资源。
+在 MetaVoxel 世界里，每一个岛屿和土地都对应一个 NFT（非同质化代币），玩家可以自由的交易。拥有土地就拥有土地上的一切资源。
 {% endhint %}
 
 MetaVoxel 世界里的核心岛屿和土地由社区优秀的设计师精心绘制而成。其他大部分土地由 MetaVoxel 地图生成器自动生成，玩家可以自由的在这些土地上发挥创造力。
