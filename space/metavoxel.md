@@ -75,4 +75,4 @@ SnowCrash Space 是完全开源的，代码使用 [Apache 2.0](https://www.apach
 
 ### SnowCrash Space 支持的平台
 
-SnowCrash Space 将会支持 Windows、macOS、iOS 和 Android。我们将首先发布 Windows 和 macOS 版本。
+SnowCrash Space 将会支持 Windows、macOS、iOS 和 Android 系统。我们将首先发布 Windows 和 macOS 版本。
