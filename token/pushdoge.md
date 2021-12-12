@@ -1,5 +1,7 @@
 # $PushDoge
 
+***预售即将开始，请关注社区公告。***
+
 $PushDoge 为 MetaVoxel 生态中不可或缺的生态代币。可以在 MetaVoxel 世界中购买宠物和宠物所需的食物和各种装备。
 
 代币名称：Pushinka Doge Token  
