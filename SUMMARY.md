@@ -2,7 +2,7 @@
 
 * [SnowCrash DAO Intro](README.md)
 
-## Intro <a href="space" id="space"></a>
+## Intro <a href="#space" id="space"></a>
 
 * [SnowCrash Space](space/snowcrash-space.md)
 * [MetaVoxel](space/metavoxel.md)
@@ -21,6 +21,7 @@
 * [Virtual Company](gameplay/virtual-company/README.md)
   * [Meme MetaVoxelDAO](gameplay/virtual-company/meme-metavoxeldao.md)
   * [Company List](https://daos.snowcrash.space)
+* [MetaDoge](gameplay/metadoge.md)
 * [Tax](gameplay/tax.md)
 * [Advertising](gameplay/advertising.md)
 * [Tasks in Space](gameplay/tasks-in-space.md)
@@ -42,7 +43,7 @@
 * [Work at SnowCrash DAO](career-opportunities/work-at-snowcrash-dao/README.md)
   * [Solidity Engineer](career-opportunities/work-at-snowcrash-dao/solidity-engineer.md)
 
-## Contact Us <a href="contact" id="contact"></a>
+## Contact Us <a href="#contact" id="contact"></a>
 
 * [Contact Us](contact/contact.md)
 * [Social Accounts & Communities](contact/community.md)
