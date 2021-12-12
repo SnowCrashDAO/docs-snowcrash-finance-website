@@ -17,15 +17,15 @@ Meme MetaVoxelDAO, headquartered on MetaVoxel Petrichor Island, is a virtual com
 
 Name: Meme MetaVoxelDAO  
 Symbol: $Me3  
-Total Supply: 142,857 $Me3  
-Blockchain Platform: Binance Smart Chain (BSC)  
-Contract Address: [0x0e2ad3737c08ad55fd1cd5213bf1abd577e8cb67](https://bscscan.com/token/0x0e2ad3737c08ad55fd1cd5213bf1abd577e8cb67)  
+Total supply: 142,857 $Me3  
+Blockchain platform: Binance Smart Chain (BSC)  
+Contract: [0x0e2ad3737c08ad55fd1cd5213bf1abd577e8cb67](https://bscscan.com/token/0x0e2ad3737c08ad55fd1cd5213bf1abd577e8cb67)  
 
 ## Token economics
 
 Meme MetaVoxelDAO founding team (SnowCrash DAO): 20%  
 Meme MetaVoxelDAO employees: 10%  
-Binance Island mine pool reservation: 45%  
+Binance Island mining pool reserve: 45%  
 Public sales: 10%  
 Liquidity: TBD  
 Marketing: 5%  
