@@ -18,7 +18,7 @@ MetaDoge is the first animal in the MetaVoxel world that can interact with the r
 
 ### How to get MetaDoge’s food?
 
-1.	Open MetaVoxel App on your mobile devices, and the map (the map of the real world) will show where there is food. To get food, just take the mobile device to the coordinates where there is food and click "collect food". In general, locations like parks, rivers, and forests are abundant in food. Moreover, when we cooperate with some merchants in the future, you can also go to PetSmart, Walmart, McDonald's, and other stores to get food according to the hints.
+1.	Open MetaVoxel App on your mobile devices, and the map (the map of the real world) will show where there is food. To get food, just take the mobile device to the coordinates where there is food and click "collect food". In general, locations like parks, rivers, and forests are abundant in food. **Moreover, when we cooperate with some merchants in the future, you can also go to PetSmart, Walmart, McDonald's, and other stores to get food according to the hints.**
 2.	Use $PushDoge to buy food in the MetaVoxel world.
 
 ### How to improve MetaDoge’s indicators like stamina, running speed etc.?

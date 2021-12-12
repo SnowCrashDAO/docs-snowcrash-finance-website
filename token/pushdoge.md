@@ -1,5 +1,7 @@
 # $PushDoge
 
+***Pre-sale is about to start, please stay tuned for community announcement.***
+
 $PushDoge is an indispensable ecological token in the MetaVoxel ecology, which can be used to buy pets, pets’ food, and other props in the MetaVoxel world.
 
 Name: Pushinka Doge Token  
