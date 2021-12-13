@@ -35,4 +35,4 @@ MetaVoxel 移动端 App 会记录你本人的健身记录，也就是说：如�
 
 ## 预售方案
 
-MetaDoge 不会直接出售，而是会免费空投给 $PushDoge 持有者。[点击这里了解更多](https://docs.snowcrash.finance/v/chinese/gameplay/virtual-company/meme-metavoxeldao)。
+MetaDoge 不会直接出售，而是会免费空投给 $PushDoge 持有者。[点击这里了解更多](https://docs.snowcrash.finance/v/chinese/token/pushdoge)。
