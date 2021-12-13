@@ -26,7 +26,7 @@ You can participate in $PushDoge pre-sale or exchange $PushDoge at PancakeSwap a
 
 Price: 1 $PushDoge = 0.000002 $USDT  
 Start and end date: December 14, 2021 8:00 - December 19, 2021 8:00 UTC  
-How to participate: [Click here to exchange using BNB on Bounce](https://app.bounce.finance/auction/fixed/274)  
+How to participate: [Click here to exchange using $USDT on Bounce](https://app.bounce.finance/auction/fixed/274)  
 Maximum allocation per wallet: 5,000 $USDT
 
 ### Second pre-sale event
