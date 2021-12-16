@@ -32,7 +32,7 @@ Maximum allocation per wallet: 5,000 $USDT
 ### Second pre-sale event
 
 Price: 1 $PushDoge = 0.000003 $USDT  
-Start and end date: December 17, 2021 8:00 - December 20, 2021 8:00 UTC  
+Start and end date: December 17, 2021 0:00 - December 20, 2021 0:00 UTC  
 How to participate: [Click here to exchange using $USDT on Bounce](https://app.bounce.finance/auction/fixed/281)  
 Maximum allocation per wallet: 5,000 $USDT
 
