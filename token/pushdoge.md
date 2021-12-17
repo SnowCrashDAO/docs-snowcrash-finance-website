@@ -33,7 +33,7 @@ Maximum allocation per wallet: 5,000 $USDT
 
 Price: 1 $PushDoge = 0.000003 $USDT  
 Start and end date: December 17, 2021 0:00 - December 20, 2021 0:00 UTC  
-How to participate: [Click here to exchange using $USDT on Bounce](https://app.bounce.finance/auction/fixed/281)  
+How to participate: ~~Click here to exchange using $USDT on Bounce~~  
 Maximum allocation per wallet: 5,000 $USDT
 
 ### Exchange $PushDoge on PancakeSwap
