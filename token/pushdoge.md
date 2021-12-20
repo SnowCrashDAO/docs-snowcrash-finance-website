@@ -20,25 +20,7 @@ Marketing: 5%
 
 ## How to buy $PushDoge?
 
-You can participate in $PushDoge pre-sale or exchange $PushDoge at PancakeSwap after the pre-sale.
-
-### First pre-sale event
-
-Price: 1 $PushDoge = 0.000002 $USDT  
-Start and end date: December 14, 2021 8:00 - December 19, 2021 8:00 UTC  
-How to participate: ~~Click here to exchange using $USDT on Bounce~~  
-Maximum allocation per wallet: 5,000 $USDT
-
-### Second pre-sale event
-
-Price: 1 $PushDoge = 0.000003 $USDT  
-Start and end date: December 17, 2021 0:00 - December 20, 2021 0:00 UTC  
-How to participate: ~~Click here to exchange using $USDT on Bounce~~  
-Maximum allocation per wallet: 5,000 $USDT
-
-### Exchange $PushDoge on PancakeSwap
-
-It will be announced after the second and third events.
+You can exchange $USDT for $PushDoge on PancakeSwap.
 
 ## Latest airdrop event for $PushDoge holders
 
