@@ -20,25 +20,7 @@ SnowCrash DAO：10%（锁定 1 年）
 
 ## 如何购买 $PushDoge？
 
-你可参与 $PushDoge 预售或在预售结束后在 PancakeSwap 上兑换 $PushDoge。
-
-### 第一期预售活动
-
-价格：1 $PushDoge = 0.000002 $USDT  
-开始和截止日期：2021 年 12 月 14 号 8:00 - 2021 年 12 月 19 号 8:00，UTC 时间  
-如何参与：~~点击这里在 Bounce 上使用 $USDT 进行兑换~~  
-每个钱包最大分配：5,000 $USDT
-
-### 第二期预售活动
-
-价格：1 $PushDoge = 0.000003 $USDT  
-开始和截止日期：2021 年 12 月 17 号 0:00 - 2021 年 12 月 20 号 0:00，UTC 时间  
-如何参与：~~点击这里在 Bounce 上使用 $USDT 进行兑换~~  
-每个钱包最大分配：5,000 $USDT
-
-### 在 PancakeSwap 上兑换 $PushDoge
-
-第二期或第三期预售活动结束后公布。
+你可在 PancakeSwap 上使用 $USDT 兑换 $PushDoge。
 
 ## 面向 $PushDoge 持有者的最新空投活动
 
