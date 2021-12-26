@@ -25,7 +25,7 @@ If you are sure that the above conditions are met, please click the button below
 
 Starting time of internal testing applications: From now until Dec 31, 2021 24:00 UTC  
 Verifying time: Jan 1, 2022 0:00 - Jan 5, 2022 24:00 UTC  
-Internal testing time: Jan 6, 2022 8:00 UTC, around 35-45 days
+Internal testing time: Jan 6, 2022 8:00 UTC, around 35 - 45 days
 
 ## System requirements
 
