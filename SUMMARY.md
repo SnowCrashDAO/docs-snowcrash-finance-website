@@ -34,6 +34,7 @@
 
 ## Open Letter
 
+* [Open Letter 0383](open-letter/open-letter-0383.md)
 * [Open Letter 1278](open-letter/open-letter-1278.md)
 * [Open Letter 003623](open-letter/open-letter-003623.md)
 * [Open Letter 002914](open-letter/open-letter-002914.md)
