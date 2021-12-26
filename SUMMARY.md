@@ -34,6 +34,7 @@
 
 ## 公开信 <a href="#open-letter" id="open-letter"></a>
 
+* [公开信 0383](open-letter/open-letter-0383.md)
 * [公开信 1278](open-letter/open-letter-1278.md)
 * [公开信 003623](open-letter/open-letter-003623.md)
 * [公开信 002914](open-letter/open-letter-002914.md)
