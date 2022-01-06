@@ -1,6 +1,6 @@
 # Open Letter 0383
 
-We are pleased to announce that the internal testing version of MetaVoxel will be released very soon. This round of tests will open 250 places, 100 for macOS and 150 for Windows. Internal testing time is about 30-45 days. If you are interested in this, you may click the button below to apply.
+We are pleased to announce that the internal testing version of MetaVoxel will be released very soon. This round of tests will open 250 places, 100 for macOS and 150 for Windows. Internal testing time is about 30 - 45 days. If you are interested in this, you may click the button below to apply.
 
 ## Notes for internal testers
 
@@ -25,7 +25,7 @@ If you are sure that the above conditions are met, please click the button below
 
 Starting time of internal testing applications: From now until Dec 31, 2021 24:00 UTC  
 Verifying time: Jan 1, 2022 0:00 - Jan 5, 2022 24:00 UTC  
-Internal testing time: Jan 6, 2022 8:00 UTC, around 35 - 45 days
+Internal testing time: Jan 6, 2022 8:00 UTC, around 30 - 45 days
 
 ## System requirements
 
