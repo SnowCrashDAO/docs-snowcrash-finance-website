@@ -31,7 +31,7 @@ Name: MetaDoge
 Symbol: MetaDoge  
 Supply: 1,969 MetaDoge  
 Blockchain platform: Binance Smart Chain (BSC)  
-Contract: To be announced
+Contract: [0x207ec29afe60a4933c71cd2590d944a79cfe129b](https://bscscan.com/token/0x207ec29afe60a4933c71cd2590d944a79cfe129b)
 
 ## MetaDoge pre-sale plan
 
