@@ -31,7 +31,7 @@ MetaVoxel 移动端 App 会记录你本人的健身记录，也就是说：如�
 符号：MetaDoge  
 发行量：1,969 MetaDoge  
 网络：币安智能链（BSC）  
-合约地址：待公布
+合约地址：[0x207ec29afe60a4933c71cd2590d944a79cfe129b](https://bscscan.com/token/0x207ec29afe60a4933c71cd2590d944a79cfe129b)
 
 ## 预售方案
 
