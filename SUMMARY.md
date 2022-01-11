@@ -42,6 +42,7 @@
 ## Career Opportunities
 
 * [Work at SnowCrash DAO](career-opportunities/work-at-snowcrash-dao/README.md)
+  * [Social Media Marketing Manager](career-opportunities/work-at-snowcrash-dao/social-media-marketing-manager.md)
   * [Solidity Engineer](career-opportunities/work-at-snowcrash-dao/solidity-engineer.md)
 
 ## Contact Us <a href="#contact" id="contact"></a>
