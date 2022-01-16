@@ -1,27 +1,27 @@
-# Open Letter 0170
+# 公开信 0170
 
-We’ve received a large number of emails and Telegram messages (including lots of spam) recently, and we’re very sorry that we couldn’t reply to all of them at the moment. This open letter will focus on some questions that most people are concerned about.
+我们最近收到了大量的电子邮件和Telegram消息(包括大量的垃圾邮件)，非常抱歉我们现在无法一一回复。这封公开信将聚焦于一些大多数人关心的问题。
 
-## All great products come from a great idea, a great "PPT".
+## 所有伟大的产品都来自一个伟大的想法，一个伟大的“PPT”。
 
-In 2008, Turkish professor Erdal Arikan released a great  "PPT" - Polar Code.
+2008年，土耳其教授Erdal Arikan发布了一个伟大的“PPT” —— Polar Code（极化码）。
 
-In October 2016, Huawei announced that it had achieved 27 Gbit/s in 5G field trial tests using polar codes for channel coding. The improvements have been introduced so that the channel performance has now almost closed the gap to the Shannon limit, which sets the bar for the maximum rate for a given bandwidth and a given noise level.
+2016年10月，华为宣布，在5G现场测试中通过使用信道编码Polar Code技术实现了高达27Gb/s的传输速率。通过引入这些改进，信道性能现在几乎接近了香农极限，香农极限为给定带宽和给定噪声水平设置了最大速率的标准。
 
-This is the importance of "PPT".
+这就是“PPT”的重要性。
 
-## Why wasn’t MetaVoxel internal testing open to the public?
+## 为什么MetaVoxel 内部测试不向公众开放?
 
-Almost every software engineer can quickly analyze the technology we're using after downloading the MetaVoxel APP. We don't want to have a large number of "replicas" on the market before the release of the open-testing version of MetaVoxel.
+几乎任何软件工程师都可以在下载MetaVoxel APP后快速分析我们所使用的技术。我们不希望在MetaVoxel公测版本发布之前，市场上出现大量的“复制品”。
 
-## When will SnowCrash DAO achieve real DAO?
+## SnowCrash DAO 将在什么时候实现真正的DAO?
 
-If the community is unanimous that handing over control of SnowCrash DAO to the community at this stage is more beneficial to the development of SnowCrash DAO, we can do so at any time (including MetaVoxel source code and detailed planning for the future).
+如果社区一致认为现阶段将SnowCrash DAO的控制权交给社区更有利于SnowCrash DAO的发展，那么我们随时都可以这么做(包括MetaVoxel源代码和未来的详细规划)。
 
-## Why has the frequency of Twitter updates become lower recently?
+## 为什么最近Twitter更新频率变低了?
 
-We realize that in the current situation, any tweets will have a non-negligible impact on the price of $Nora. We want to avoid this as much as possible. Therefore, follow-up Twitter will only post some important announcements.
+我们意识到，在目前的情况下，任何Twitter都会对$Nora的价格产生不可忽视的影响。我们希望尽可能地避免这种情况。所以后续的Twitter将只会发布一些重要的公告。
 
-## Have we considered optimizing the way we communicate with the community?
+## 是否考虑过优化我们与社区交流的方式?
 
-Certainly, as you can see, we’re recruiting Social Media Marketing Managers. However, please note that considering a large number of fake Pizza Deliverers (SnowCrash DAO community volunteers) have recently appeared on Telegram trying to contact us, and also communicate with holders in the name of SnowCrash DAO officials or Pizza Deliverers, so after the publication of this open letter, and until our Social Media Marketing Manager is in place, we will not reply to any Telegram messages.
+当然，如你所见，我们正在招聘社交媒体营销经理。但请注意，考虑到Telegram上最近出现了大量假冒的Pizza Deliverer(SnowCrash DAO社区志愿者)试图联系我们，也以SnowCrash DAO官方或Pizza Deliverer的名义与$Nora持有者沟通，所以在这封公开信发表后，在我们的社交媒体营销经理上任之前，我们将不会回复任何Telegram消息。
