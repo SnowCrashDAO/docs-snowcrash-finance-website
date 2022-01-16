@@ -42,6 +42,7 @@
 ## 工作机会 <a href="#career-opportunities" id="career-opportunities"></a>
 
 * [在 SnowCrash DAO 工作](career-opportunities/work-at-snowcrash-dao/README.md)
+  * [Social Media Marketing Manager](career-opportunities/work-at-snowcrash-dao/social-media-marketing-manager.md)
   * [Solidity Engineer](career-opportunities/work-at-snowcrash-dao/solidity-engineer.md)
 
 ## 联系我们 <a href="#contact" id="contact"></a>
