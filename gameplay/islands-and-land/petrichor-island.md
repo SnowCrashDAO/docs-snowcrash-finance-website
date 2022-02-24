@@ -40,7 +40,7 @@ Name: MetaVoxel Petrichor Island Land\
 Symbol: MEPE\
 Total supply: 2,980 MEPE\
 Blockchain platform: Binance Smart Chain (BSC)\
-Contract: To be announced
+Contract: [0xdfbB8178C01D6CD0Eb18dD5Cf2B3628BDAC961Fe](https://bscscan.com/token/0xdfbB8178C01D6CD0Eb18dD5Cf2B3628BDAC961Fe)
 
 ## Land pre-sale plan
 
